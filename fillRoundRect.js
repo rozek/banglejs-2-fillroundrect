@@ -28,6 +28,8 @@
         gfx.drawLine(cx1 - x, cy2 + y,  cx2 + x, cy2 + y);
         gfx.drawLine(cx1 - y, cy2 + x,  cx2 + y, cy2 + x);
       }
+
+      return gfx;
     };
   }
 })();
