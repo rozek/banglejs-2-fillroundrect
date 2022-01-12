@@ -2,7 +2,7 @@
 
 fills a rounded rectangle on a Bangle.js 2
 
-This module adds a method `fillroundrect` for drawing filled rounded rectangles to the global graphics context `g`.
+This module adds a method `fillroundrect` for drawing filled rounded rectangles to the global graphics context `g`. The current implementation is based on a remark from forum user [RaoulDuke](http://forum.espruino.com/profiles/181747/) (see [this discussion](http://forum.espruino.com/conversations/371330)).
 
 ![](Demo.png)
 
