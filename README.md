@@ -8,7 +8,7 @@ This module adds a method `fillroundrect` for drawing filled rounded rectangles 
 
 The new method has the signature
 
-```
+```javascript
 g.fillroundrect(x1,y1, x2,y2, radius);
 ```
 
